@@ -1,4 +1,4 @@
-# AlgoPay Token Projects
+# AlgoPay-Token-Generation
 
 This repository contains three main Python scripts that interact with the Algorand blockchain using the Algorand SDK (`algosdk`). The scripts cover account creation, payment transactions, and token creation. All the scripts work together to create an account, send payments, and generate a custom token on the Algorand blockchain. These scripts use environment variables stored in a `.env` file for sensitive data.
 
